@@ -22,7 +22,7 @@
   <FormSettings>
     <Form xsi:type="ItemEdit">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://enzeekay.github.io/Outlook-Add-in-On-Send/app.js" />
+        <SourceLocation DefaultValue="https://enzeekay.github.io/Outlook-Add-in-On-Send/index.html" />
       </DesktopSettings>
     </Form>
   </FormSettings>
