@@ -59,7 +59,7 @@
     // Add a CC to the email.  In this example, CC contoso@contoso.onmicrosoft.com
     // <param name="event">MessageSend event passed from calling function</param>
     function addCCOnSend(event) {
-        mailboxItem.cc.setAsync(['khanh.ng@rndc.io'], { asyncContext: event });        
+        mailboxItem.cc.setAsync(['khanh.nguyen-gia@tek-experts.com'], { asyncContext: event });        
     }
 
     // Check if the subject should be changed. If it is already changed allow send, otherwise change it.
